@@ -88,7 +88,8 @@ and `Hawaiian Airline` generally `depart before time`.
 ## Model Evaluation
 
 **Mean Absolute error**
-![](./img/mae.jpg)
+
+<img src="./img/mae.jpg" width="600">
 
 **R-squared error**
 
@@ -106,8 +107,8 @@ and `Hawaiian Airline` generally `depart before time`.
 
 ## Recommendations
 I have recommendation around feature if someone plans to extend this project for better performance such as:
-	a. Taking holidays into account as this increase the rush.
-	b. Taking day of week into account as weekend and early week are busy.
-	c. Taking time of day into account as mornings and evenings are usually busy.
-	d. Weather condition can be added as additional features to the dataset, this is
+- Taking holidays into account as this increase the rush.
+- Taking day of week into account as weekend and early week are busy.
+- Taking time of day into account as mornings and evenings are usually busy.
+- Weather condition can be added as additional features to the dataset, this is
 	   available with NOAA (National Oceanic and Atmospheric Administration)
