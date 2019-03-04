@@ -88,15 +88,13 @@ and `Hawaiian Airline` generally `depart before time`.
 ## Model Evaluation
 
 **Mean Absolute error**
-
 <img src="./img/mae.jpg" width="600">
 
 **R-squared error**
-
-![](./img/r2.jpg)
+<img src="./img/r2.jpg" width="600">
 
 **Root mean squared error**
-![](./img/rmse.jpg)
+<img src="./img/rmse.jpg" width="600">
 
 
 **Conclusions -**
